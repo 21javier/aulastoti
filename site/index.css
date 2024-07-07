@@ -28,11 +28,12 @@ body {
     /* border: 1px solid yellow; */
 }
 
-.link{
+.link {
     text-decoration: none;
     margin-right: 25px;
-    color: red
+    color: red; /* Corrigido aqui */
 }
+
 .menu-direita {
     /* border: 1px solid yellow; */
 }
@@ -43,12 +44,12 @@ body {
     background: #ff0000;
 }
 
-.menu{
+.menu {
     color: white;
     display: flex;
     margin-right: 10%;
-    align-self: first baseline;
 }
+
 .capa {
     height: 500px;
     background: #ffffff;
