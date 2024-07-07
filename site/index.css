@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.topo {
+    height: 60px;
+    width: 100%;
+    background-color: #e9e7e7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa-menus {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 85%;
+    height: 100%;
+    /* border:2px solid green; */
+    margin: auto;
+}
+
+.menu-esquerda {
+    /* border: 1px solid yellow; */
+}
+
+.link{
+    text-decoration: none;
+    margin-right: 25px;
+    color: red
+}
+.menu-direita {
+    /* border: 1px solid yellow; */
+}
+
+.sub {
+    height: 100px;
+    width: 100%;
+    background: #ff0000;
+}
+
+.menu{
+    color: white;
+    display: flex;
+    margin-right: 10%;
+    align-self: first baseline;
+}
+.capa {
+    height: 500px;
+    background: #ffffff;
+}
