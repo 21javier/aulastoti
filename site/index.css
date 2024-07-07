@@ -20,7 +20,7 @@ body {
     justify-content: space-between;
     width: 85%;
     height: 100%;
-    /* border:2px solid green; */
+    /* border: 2px solid green; */
     margin: auto;
 }
 
@@ -48,6 +48,11 @@ body {
     color: white;
     display: flex;
     margin-right: 10%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 .capa {
